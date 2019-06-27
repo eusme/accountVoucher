@@ -1,0 +1,5 @@
+ID,sequence,view_mode,act_window_id,view_id
+action_sale_receipt_tree,,tree,action_sale_receipt,
+action_sale_receipt_form,,form,action_sale_receipt,view_sale_receipt_form
+action_purchase_receipt_tree,,tree,action_purchase_receipt,
+action_purchase_receipt_form,,form,action_purchase_receipt,view_purchase_receipt_form

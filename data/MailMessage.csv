@@ -1,0 +1,3 @@
+ID,model,res_id,message_type,subtype_id,subject,body
+module_install_notification,mail.channel,mail.channel_all_employees,notification,mail.mt_comment,eInvoicing &amp; Payments application installed!,<![CDATA[<p>Odoo's electronic invoicing accelerates the creation of invoices and collection of customer payments. Invoices are created in a few clicks and your customers receive them by email. They can pay online and/or import them in their own system.</p>
+<p>You can track customer payments easily and automate follow-ups. You get an overview of the discussion with your customers on each invoice for easier traceability. For advanced accounting features, you should install the "Accounting and Finance" module.</p>]]>

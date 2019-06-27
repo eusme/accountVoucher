@@ -1,0 +1,2 @@
+ID,name,res_model,default,description
+mt_voucher_state_change,Status Change,account.voucher,,Status changed
